@@ -46,11 +46,11 @@
 	
 	<table>
 		<tr><td>Nombre:</td> <td><%=usuario%></td> </tr>
-		<tr><td>Salario Bruto:</td> <td><%=sal_b%></td> </tr>
-		<tr><td>Seguro Social:</td> <td><%=ss%></td> </tr>
-		<tr><td>Seguro Educativo:</td> <td><%=se%></td> </tr>
-		<tr><td>Otros Descuentos:</td> <td><%=desc%></td> </tr>
-		<tr><td>Salario Neto:</td> <td><%=Sal_neto%></td> </tr>
+		<tr><td>SalarioBruto:</td> <td><%=sal_b%></td> </tr>
+		<tr><td>SeguroSocial:</td> <td><%=ss%></td> </tr>
+		<tr><td>SeguroEducativo:</td> <td><%=se%></td> </tr>
+		<tr><td>OtrosDescuentos:</td> <td><%=desc%></td> </tr>
+		<tr><td>SalarioNeto:</td> <td><%=Sal_neto%></td> </tr>
 	</table>
 
 </body>
