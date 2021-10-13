@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>calculo ..</title>
+<title>calculo  ..</title>
 </head>
 <body>
 	<%!
@@ -49,6 +49,7 @@
 		<tr><td>SalarioBruto:</td> <td><%=sal_b%></td> </tr>
 		<tr><td>SeguroSocial:</td> <td><%=ss%></td> </tr>
 		<tr><td>SeguroEducativo:</td> <td><%=se%></td> </tr>
+		<br>
 		<tr><td>OtrosDescuentos:</td> <td><%=desc%></td> </tr>
 		<br>
 		<tr><td>SalarioNeto:</td> <td><%=Sal_neto%></td> </tr>
