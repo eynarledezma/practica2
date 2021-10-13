@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>esta es una tercera pantalla</title>
+<title>POR FAVOR APRENDAN A HACER BIEN UN COMMIT</title>
 </head>
 <body>
+<h1>COÑO HAGAN BIEN EL COMIT</h1>
 
 </body>
 </html>
