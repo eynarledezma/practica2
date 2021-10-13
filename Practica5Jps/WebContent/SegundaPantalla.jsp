@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>calculo   ..</title>
+<title>esto es la prueba de un calculo</title>
 </head>
 <body>
 	<%!
