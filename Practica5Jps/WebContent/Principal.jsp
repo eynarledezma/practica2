@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Paso</title>
+<title>Paso canoas</title>
 
 <style>
 .boton {
