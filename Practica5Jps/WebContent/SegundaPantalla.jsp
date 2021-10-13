@@ -50,7 +50,9 @@
 		<tr><td>SeguroSocial:</td> <td><%=ss%></td> </tr>
 		<tr><td>SeguroEducativo:</td> <td><%=se%></td> </tr>
 		<tr><td>OtrosDescuentos:</td> <td><%=desc%></td> </tr>
+		<br>
 		<tr><td>SalarioNeto:</td> <td><%=Sal_neto%></td> </tr>
+		<br>
 	</table>
 
 </body>

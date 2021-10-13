@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Paso de. Infrmación.</title>
+<title>Paso</title>
 
 <style>
 .boton {
